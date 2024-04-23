@@ -1,0 +1,13 @@
+{
+	"admin/system/poweroff": {
+		"title": "Poweroff",
+		"order": 99,
+		"action": {
+			"type": "view",
+			"path": "system/poweroff"
+		},
+		"depends": {
+			"acl": [ "luci-mod-poweroff" ]
+		}
+	}
+}

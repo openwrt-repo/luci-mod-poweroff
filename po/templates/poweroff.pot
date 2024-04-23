@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Poweroff"
+msgstr ""
+
+msgid "Poweroff your device"
+msgstr ""
+
+msgid "Warning: There are unsaved changes that will get lost on shutting down!"
+msgstr ""
+
+msgid "Perform poweroff"
+msgstr ""
+
+msgid "Waiting for device..."
+msgstr ""
+
+msgid "Poweroff…"
+msgstr ""
+
+msgid "The poweroff command failed with code %d"
+msgstr ""
+
+msgid "Device is shutting down!"
+msgstr ""

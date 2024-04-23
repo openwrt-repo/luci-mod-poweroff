@@ -1,0 +1,14 @@
+{
+	"luci-mod-poweroff": {
+		"description": "Shut down your device",
+		"write": {
+			"file": {
+				"/sbin/poweroff": [ "exec" ]
+			},
+			"ubus": {
+				"file": [ "exec" ],
+				"system": [ "poweroff" ]
+			}
+		}
+	}
+}
